@@ -121,12 +121,12 @@ footer a:hover {
 
 /* Change background color of buttons on hover */
 .tab button:hover {
-  background-color: #ddd;
+  background-color: rgb(126, 0, 126);
 }
 
 /* Create an active/current tablink class */
 .tab button.active {
-  background-color: #ccc;
+  background-color: rgb(214, 2, 241);
 }
 
 /* Style the tab content */
@@ -146,5 +146,8 @@ footer a:hover {
 }
 
 #V1 {
+  text-align: center;
+}
+#mcb {
   text-align: center;
 }
